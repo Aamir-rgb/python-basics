@@ -40,4 +40,3 @@ Statically Typed Language                                  Dynamically Typed Lan
    lightweight classes                                     classes as compared to statically typed classes.
 5. Difficult to integrate with external libraries          Easy to integrate with external libraries.
      """
-      
